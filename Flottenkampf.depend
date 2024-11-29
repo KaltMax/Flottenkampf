@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1717359185 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	"VisualsAndUtility.h"
+	"Game.h"
+
+1717503579 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\game.cpp
+	"Game.h"
+
+1717502568 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\game.h
+	"Player.h"
+	"Ship.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Hunter.h"
+	"ShipAttack.h"
+	"CriticalStrike.h"
+	"FindTarget.h"
+	"Bombardment.h"
+	"VisualsAndUtility.h"
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
+1717501142 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\bombardment.cpp
+	"Bombardment.h"
+
+1717494143 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\bombardment.h
+	"ShipAttack.h"
+
+1717349106 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\specialattack.h
+	<iostream>
+	<string>
+
+1717501138 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\criticalstrike.cpp
+	"CriticalStrike.h"
+
+1717494155 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\criticalstrike.h
+	<ShipAttack.h>
+
+1717501130 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\findtarget.cpp
+	"FindTarget.h"
+
+1717494173 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\findtarget.h
+	<ShipAttack.h>
+
+1717502784 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\player.cpp
+	"Player.h"
+
+1717502811 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\player.h
+	"Ship.h"
+	<iostream>
+	<vector>
+	<string>
+
+1717348880 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\specialattack.cpp
+	"SpecialAttack.h"
+
+1717936216 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\cruiser.cpp
+	"Cruiser.h"
+
+1717494258 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\cruiser.h
+	<Ship.h>
+	<Bombardment.h>
+
+1717497356 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\ship.h
+	"ShipAttack.h"
+	<iostream>
+	<string>
+
+1717936216 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\destroyer.cpp
+	"Destroyer.h"
+
+1717494273 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\destroyer.h
+	<Ship.h>
+	<FindTarget.h>
+
+1717936216 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\hunter.cpp
+	"Hunter.h"
+
+1717494284 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\hunter.h
+	<Ship.h>
+	<CriticalStrike.h>
+
+1717936151 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\ship.cpp
+	"Ship.h"
+
+1717936283 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\shipattack.h
+	<iostream>
+	<string>
+	"Ship.h"
+
+1717494116 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\shipattack.cpp
+	"ShipAttack.h"
+
+1717359354 c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\include\visualsandutility.h
+	<iostream>
+	<limits>
+
+1717501390 source:c:\users\mkalt\nextcloud\schule\semester 2\objektorientierte programmierung\06_flottenkampf\flottenkampf\src\visualsandutility.cpp
+	"VisualsAndUtility.h"
+
